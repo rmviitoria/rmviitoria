@@ -1,8 +1,7 @@
 ## Oiii! Eu sou Vitória Reis 
 
 - 🧾 Último ano do ensino médio
-- 🖥 Estudante de técnico em informática  
-- 😄 Pronomes: ela/dela
+- 🖥 Estudante de técnico em informática
 
 | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rmviitoria&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Vitoria's github stats" /></a> | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmviitoria&layout=compact&theme=rose_pine&hide_border=true" /></a> |
 | ------------- | ------------- |
