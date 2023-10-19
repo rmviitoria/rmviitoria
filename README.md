@@ -8,6 +8,7 @@
 | ------------- | ------------- |
 
 #### Design
+![Alt ou título da imagem](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Alt ou título da imagem](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Alt ou título da imagem](https://aleen42.github.io/badges/src/illustrator.svg)
 
@@ -20,8 +21,12 @@
 ![Alt ou título da imagem](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+#### Office
+![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Alt ou título da imagem](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-### Contato
+## Contato
 <div> 
   <a href="https://instagram.com/rmviitoria" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rmviitoria@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
