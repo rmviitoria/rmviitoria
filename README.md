@@ -1,7 +1,7 @@
 ## Oiii! Eu sou Vitória Reis 
 
-- 🧾 Último ano do ensino médio
-- 🖥 Estudante de técnico em informática
+- 🧾 Último ano do ensino médio (Colégio ULBRA São Lucas)
+- 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
 - 🗣 Fluênte na lingua inglesa & estudante de alemão
 
 | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rmviitoria&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Vitoria's github stats" /></a> | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmviitoria&layout=compact&theme=rose_pine&hide_border=true" /></a> |
