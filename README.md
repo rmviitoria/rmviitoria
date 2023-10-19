@@ -3,6 +3,8 @@
 - 🧾 Último ano do ensino médio (Colégio ULBRA São Lucas)
 - 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
 - 🗣 Fluênte na lingua inglesa & estudante de alemão
+- No tempo livre costumo escutar música, ler ou assistir séries musicais
+- Veja meu curriculo no site do linkedin!
 
 | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rmviitoria&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Vitoria's github stats" /></a> | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmviitoria&layout=compact&theme=rose_pine&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -12,7 +14,7 @@
 ![Alt ou título da imagem](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Alt ou título da imagem](https://aleen42.github.io/badges/src/illustrator.svg)
 
-#### Hbilidades
+#### Habilidades
 ![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
