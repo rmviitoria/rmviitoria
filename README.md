@@ -1,4 +1,4 @@
-## Oiii! Eu sou Vitória Reis 
+## Oiii! Eu sou Vitória Reis
 
 - 🧾 Último ano do ensino médio (Colégio ULBRA São Lucas)
 - 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
