@@ -1,6 +1,5 @@
 ## Oiii! Eu sou Vitória Reis
 
-- 🧾 Último ano do ensino médio (Colégio ULBRA São Lucas)
 - 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
 - 🗣 Fluênte na lingua inglesa & estudante de alemão
 - No tempo livre costumo escutar música, ler ou assistir séries musicais
