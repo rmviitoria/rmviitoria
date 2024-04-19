@@ -1,6 +1,7 @@
-## Oiii! Eu sou Vitória Reis
+## Oi! Eu sou Vitória Reis
 
-- 🖥 Estudante de técnico em informática (Colégio ULBRA São Lucas)
+- 👩‍💻 Estudante de Ciência da Computação
+- 🖥 Técnica em Informática;
 - 🗣 Fluênte na lingua inglesa & estudante de alemão
 - Veja meu perfil no site do linkedin!
 
