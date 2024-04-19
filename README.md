@@ -1,7 +1,7 @@
 ## Oi! Eu sou Vitória Reis
 
 - 👩‍💻 Estudante de Ciência da Computação
-- 🖥 Técnica em Informática;
+- 🖥 Técnica em Informática
 - 🗣 Fluênte na lingua inglesa & estudante de alemão
 - Veja meu perfil no site do linkedin!
 
