@@ -1,12 +1,10 @@
 ## Oi! Eu sou Vitória Reis
 
-- 👩‍💻 Estudante de Ciência da Computação
+- 👩‍💻 Estudante de Sistemas da Informação
 - 🖥 Técnica em Informática
-- 🗣 Fluênte na lingua inglesa & estudante de alemão
+- 🗣 Professora de inglês & estudante de alemão
 - Veja meu perfil no site do linkedin!
 
-| <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rmviitoria&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=true" alt="Vitoria's github stats" /></a> | <a href="https://github.com/rmviitoria/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmviitoria&layout=compact&theme=rose_pine&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 #### Design
 ![Alt ou título da imagem](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
